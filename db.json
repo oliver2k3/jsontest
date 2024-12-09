@@ -1,4 +1,5 @@
-[
+{
+  "posts":[
   {
     "id": 1,
     "title": "Cách nấu phở bò truyền thống",
@@ -11,4 +12,8 @@
     "body": "Hướng dẫn cách nấu bún.",
     "base64Image": ""
   }
-]
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
