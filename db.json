@@ -1,16 +1,14 @@
-{
-{
-{
-  "id":1,
-  "title": "Cach nau pho bo truyen thong",
-  "body": " Huong dan cach nau pho.",
-  "base64Image": ""
-},
-{
-  "id":2,
-  "title": "Cach nau bun bo truyen thong",
-  "body": " Huong dan cach nau bun.",
-  "base64Image": ""
-},
-}
-}
+[
+  {
+    "id": 1,
+    "title": "Cách nấu phở bò truyền thống",
+    "body": "Hướng dẫn cách nấu phở.",
+    "base64Image": ""
+  },
+  {
+    "id": 2,
+    "title": "Cách nấu bún bò truyền thống",
+    "body": "Hướng dẫn cách nấu bún.",
+    "base64Image": ""
+  }
+]
